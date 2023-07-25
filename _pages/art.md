@@ -2,19 +2,57 @@
 layout: page
 title: art
 permalink: /art/
-description: I started doing art in the summer of 2023. It gave me an incredible opportunity to see the world around me in detail. 
-These are some of my works 
+description: A growing collection of your cool projects.
 nav: true
 nav_order: 4
-#display_categories: [work, fun]
+display_categories: [work, fun]
 horizontal: false
 ---
 
-<div class = "row">
-<div class = "col">
-{% include figure.html path="assets/img/art/starry_night.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-</div>
-<div class = "col">
-{% include figure.html path="assets/img/art/flower.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-</div>
+<!-- pages/projects.md -->
+<div class="projects">
+{%- if site.enable_project_categories and page.display_categories %}
+  <!-- Display categorized projects -->
+  {%- for category in page.display_categories %}
+  <h2 class="category">{{ category }}</h2>
+  {%- assign categorized_projects = site.art | where: "category", category -%}
+  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for project in sorted_projects -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
+  {% endfor %}
+
+{%- else -%}
+<!-- Display projects without categories -->
+  {%- assign sorted_projects = site.art | sort: "importance" -%}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for project in sorted_projects -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
+{%- endif -%}
 </div>
