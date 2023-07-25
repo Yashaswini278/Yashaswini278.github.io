@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Audio Classification using Deep Learning
-description: a project with a background image
+#description: a project with a background image
 img: assets/img/audio.jpg
 importance: 1
 redirect: https://github.com/Yashaswini278/Audio-Classification-using-Deep-Learning
