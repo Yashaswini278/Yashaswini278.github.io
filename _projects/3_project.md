@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3
+title: Audio Classification using Deep Learning
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+img: assets/img/audio.jpg
+redirect: https://github.com/Yashaswini278/Audio-Classification-using-Deep-Learning
+importance: 1
 category: work
 ---
 
