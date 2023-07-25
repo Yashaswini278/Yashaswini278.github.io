@@ -2,8 +2,8 @@
 layout: page
 title: Semantic Similarity on Quora Question Pairs
 #description: a project with a background image
-img: assets/img/audio.jpg
-importance: 1
+img: assets/img/quora.png
+importance: 2
 redirect: https://github.com/Yashaswini278/Semantic-Similarity-on-Quora-Question-Pairs
 ---
 

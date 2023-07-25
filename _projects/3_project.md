@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Audio Classification using Deep Learning
-description: a project that redirects to another website
-img: assets/img/audio.jpg
-redirect: https://github.com/Yashaswini278/Audio-Classification-using-Deep-Learning
-importance: 1
-category: work
+title: Neural style transfer using VGG-19
+#description: a project that redirects to another website
+img: assets/img/art/starry_night.jpg
+redirect: https://github.com/Yashaswini278/Neural-Style-Transfer-using-VGG19-PyTorch
+importance: 3
+#category: work
 ---
 
 Every project has a beautiful feature showcase page.

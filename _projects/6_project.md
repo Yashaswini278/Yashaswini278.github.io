@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Neural Encoding and Decoding
+#description: a project that redirects to another website
+img: assets/img/spikes.png
+redirect: https://github.com/Yashaswini278/Computational-Neuroscience-Projects
+importance: 6
+#category: work
 ---
 
 Every project has a beautiful feature showcase page.
