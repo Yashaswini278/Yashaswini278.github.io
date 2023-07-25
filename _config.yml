@@ -176,6 +176,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  art:
+    output: true
+    permalink: /art/:path/
 
 announcements:
   enabled: false
