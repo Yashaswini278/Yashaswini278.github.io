@@ -9,7 +9,5 @@ nav: true
 nav_order: 4
 ---
 
-# art
-{% include figure.html path="assets/img/art/starry_night.jpg" title="example" class="img-fluid rounded z-depth-1" caption="Structure of a Dask dataframe" %}
 
 
