@@ -1,10 +1,12 @@
 ---
 layout: page
-permalink: /art/
 title: art
+permalink: /art/
+description: A growing collection of your cool projects.
 nav: true
 nav_order: 4
-description: art page
+display_categories: [work, fun]
+horizontal: false
 ---
 
 <div class="row">
