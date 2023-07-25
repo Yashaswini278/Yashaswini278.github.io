@@ -10,13 +10,11 @@ nav_order: 4
 horizontal: false
 ---
 
-<div class = "container">
 <div class = "row">
 <div class = "col">
 {% include figure.html path="assets/img/art/starry_night.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class = "col">
 {% include figure.html path="assets/img/art/flower.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-</div>
 </div>
 </div>
