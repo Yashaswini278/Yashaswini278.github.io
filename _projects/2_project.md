@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Semantic Similarity on Quora Question Pairs
+#description: a project with a background image
+img: assets/img/audio.jpg
+importance: 1
+redirect: https://github.com/Yashaswini278/Semantic-Similarity-on-Quora-Question-Pairs
 ---
 
 Every project has a beautiful feature showcase page.

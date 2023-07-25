@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Audio Classification using Deep Learning
+#description: a project with a background image
+img: assets/img/audio.jpg
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+redirect: https://github.com/Yashaswini278/Audio-Classification-using-Deep-Learning
 ---
 
 Every project has a beautiful feature showcase page.
