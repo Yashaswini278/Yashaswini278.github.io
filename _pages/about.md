@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey! I'm Yashaswini, a prefinal year student pursuing Integrated Masters (BTech. Electrical Engineering and MTech. Machine Learning and Signal Processing) at IIT Kharagpur. 
+Hey! I'm Yashaswini, a final year student pursuing Integrated Masters (BTech. Electrical Engineering and MTech. Machine Learning and Signal Processing) at IIT Kharagpur. 
 
 My research interests include Deep Learning, Computational Neuroscience and Signal Processing. I am particularly interested to 
 pursue research at the intersection of neuroscience and deep learning. 
