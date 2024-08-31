@@ -23,5 +23,5 @@ Hi, I’m Yashaswini, a final-year student at [Indian Institute of Technology Kh
 
 My research lies at the intersection of Deep Learning, Computational Neuroscience, and Signal Processing, focusing on how neuroscience can inspire advancements in deep learning.
 
-Currently, I’m interning at TU Eindhoven in the [NeurAI lab](https://github.com/NeurAI-Lab) under Dr. Bahram Zonooz and Dr. Elahe Arani, developing neuroscience-inspired models for continual learning. My Masters thesis, guided by Dr. Sanjay Ghosh, investigates Functional Connectome-based Brain Fingerprinting. My Bachelors thesis, titled “Emergence of Auditory Receptive Fields based on Surprise at Multiple Timescales,” was completed under the mentorship of Dr. Sharba Bandyopadhyay.
+Currently, I’m interning at TU Eindhoven in the [NeurAI lab](https://github.com/NeurAI-Lab) under Dr. Bahram Zonooz and Dr. Elahe Arani, developing neuroscience-inspired models for continual learning. My Masters thesis, guided by Dr. Sanjay Ghosh, investigates Functional Connectome-based Brain Fingerprinting. My Bachelors thesis, titled “Emergence of Auditory Receptive Fields based on Surprise at Multiple Timescales,” was guided by Dr. Sharba Bandyopadhyay.
 
