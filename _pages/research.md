@@ -30,7 +30,20 @@ By understanding these **local learning rules** and how the brain uses them, we 
 
 - **Memory - role of Neocortex and Hippocampus**
 
-I am very interested in how the **neocortex** and **hippocampus** work together to **create, store, and recall memories**, particularly through the **Complementary Learning Systems (CLS) theory**. This theory suggests that the **hippocampus** and **neocortex** have different but connected roles in handling memory. The **hippocampus** is key for quickly forming and storing new, detailed memories of specific events. Over time, these memories are slowly moved to the **neocortex**, where they are stored long-term and linked to other knowledge we already have. The **neocortex** helps us **recognize patterns** and **generalize** from our experiences, which allows us to **learn and adapt** to new situations. By studying how these two brain regions interact, we can better understand how memories are formed and maintained, which could help with treating **memory disorders** and improving **AI systems** to function more like the human brain.
+Another area that really interests me is how the brain handles **memory**—especially how the **neocortex** and **hippocampus** work together to **create, store, and recall memories**.
+\
+\
+The **Complementary Learning Systems (CLS) theory** suggests that these two parts of the brain have different but connected roles. The **hippocampus** is key for quickly forming and storing new, detailed memories of specific events. Over time, these memories are gradually moved to the **neocortex**, where they are stored long-term and linked to other knowledge we already have.
+\
+\
+The **neocortex** helps us **recognize patterns** and **generalize** from our experiences, which allows us to **learn and adapt** to new situations. By studying how these two brain regions interact, we can better understand how memories are formed and maintained. This knowledge could help with treating **memory disorders** and improving **AI systems** to work more like the human brain.
+
+
+
+
+
+
+
 
 
 
