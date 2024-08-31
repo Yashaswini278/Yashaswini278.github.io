@@ -54,7 +54,11 @@ navbar_fixed: true
 footer_fixed: true
 navbar_pages: 
   - about.md
-  - blog.md 
+  - projects.md
+  - blog.md
+  - cv.md
+  - art.md
+
 
 # Dimensions
 max_width: 800px
