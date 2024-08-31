@@ -162,6 +162,8 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@yashaswini278/feed
+  - name: medium.com
+    rss_url: https://medium.com/@neuroaikgp/feed
 
 # -----------------------------------------------------------------------------
 # Collections
