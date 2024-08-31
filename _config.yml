@@ -52,12 +52,6 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-navbar_pages: 
-  - about.md
-  - projects.md
-  - blog.md
-  - cv.md
-  - art.md
 
 
 # Dimensions
@@ -185,6 +179,9 @@ collections:
   art:
     output: true
     permalink: /art/:path/
+  research:
+    output: true
+    permalink: /research/:path/
 
 announcements:
   enabled: false
