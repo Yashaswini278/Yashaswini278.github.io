@@ -12,7 +12,15 @@ I am interested in almost all aspects and possibilities of **NeuroAI**. Some of 
 
 - **Local learning rules implemented by the brain - Hebbian, Neo-Hebbian; Sparsity**
 
-I am particularly interested in exploring the **local learning rules** that the brain implements, such as **Hebbian** and **Neo-Hebbian learning**, as well as the concept of **sparsity**. **Hebbian learning**, often summarized as "**cells that fire together wire together**," is a foundational principle in neuroscience that describes how **synaptic connections** between neurons are strengthened through repeated activation. **Neo-Hebbian learning** extends these ideas by incorporating mechanisms where **plasticity** is modulated by the element of **surprise** or **prediction error**—when an outcome differs from what is expected, **synaptic changes** are more likely to occur. This allows the brain to adapt more dynamically to new information, enhancing **learning efficiency** and accuracy. Additionally, I am fascinated by the role of **sparsity** in **neural networks**, where only a small subset of neurons is active at any given time, leading to efficient **information processing** and storage. Understanding these **local learning rules** and their implementation in the brain could provide valuable insights into designing more efficient and biologically inspired **artificial neural networks**.
+I am particularly interested in exploring the **local learning rules** that the brain implements, such as **Hebbian** and **Neo-Hebbian learning**, as well as the concept of **sparsity**. 
+\
+**Hebbian learning**, often summarized as "**cells that fire together wire together**," is a foundational principle in neuroscience that describes how **synaptic connections** between neurons are strengthened through repeated activation. 
+\
+**Neo-Hebbian learning** extends these ideas by incorporating mechanisms where **plasticity** is modulated by the element of **surprise** or **prediction error**—when an outcome differs from what is expected, **synaptic changes** are more likely to occur. This allows the brain to adapt more dynamically to new information, enhancing **learning efficiency** and accuracy. 
+\
+Additionally, I am fascinated by the role of **sparsity** in **biological neural networks**, where only a small subset of neurons is active at any given time, leading to efficient **information processing** and storage. 
+\
+Understanding these **local learning rules** and their implementation in the brain could provide valuable insights into designing more efficient and biologically inspired **artificial neural networks**.
 
 - **Memory - role of Neocortex and Hippocampus**
 
