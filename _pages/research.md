@@ -9,7 +9,9 @@ nav_order: 1
 horizontal: false
 ---
 
-*Neo-hebbian learning rules* 
+**Neo-hebbian learning rules**
 
-*Complementary learning systems theory*
+**Complementary learning systems theory**
+
+
 
