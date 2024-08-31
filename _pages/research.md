@@ -8,19 +8,25 @@ nav_order: 1
 #display_categories: [work, fun]
 horizontal: false
 ---
-I am interested in almost all aspects and possibilities of **NeuroAI**. Some of the areas that I have explored and am especially interested in are:
+**What makes the brain such an amazing learner?** This question drives my passion for **NeuroAI**—the field where neuroscience and artificial intelligence meet. While I'm interested in many aspects of this field, a few topics really stand out to me:
 
-- **Local learning rules implemented by the brain - Hebbian, Neo-Hebbian; Sparsity**
+- **How the brain learns locally - Hebbian, Neo-Hebbian; Sparsity**
+/
+/
+I'm especially curious about the **local learning rules** the brain uses, like **Hebbian** and **Neo-Hebbian learning**, and the idea of **sparsity**.
+/
+/
+**Hebbian learning** is a basic rule that says "**cells that fire together wire together**." This means that when two neurons (brain cells) are active at the same time, the connection between them gets stronger, helping us learn and remember things.
+/
+/
+**Neo-Hebbian learning** builds on this idea by adding a twist: if something happens that surprises the brain, or if an outcome is different from what was expected, the brain is more likely to change the connections between neurons. This helps the brain learn more effectively and accurately.
+/
+/
+I'm also fascinated by **sparsity**—the idea that at any given time, only a few neurons are active while most are quiet. This helps the brain process and store information in a very efficient way.
+/
+/
+By understanding these **local learning rules** and how the brain uses them, we can find new ways to design **artificial neural networks** that are smarter and more efficient, just like the brain.
 
-I am particularly interested in exploring the **local learning rules** that the brain implements, such as **Hebbian** and **Neo-Hebbian learning**, as well as the concept of **sparsity**. 
-\
-**Hebbian learning**, often summarized as "**cells that fire together wire together**," is a foundational principle in neuroscience that describes how **synaptic connections** between neurons are strengthened through repeated activation. 
-\
-**Neo-Hebbian learning** extends these ideas by incorporating mechanisms where **plasticity** is modulated by the element of **surprise** or **prediction error**—when an outcome differs from what is expected, **synaptic changes** are more likely to occur. This allows the brain to adapt more dynamically to new information, enhancing **learning efficiency** and accuracy. 
-\
-Additionally, I am fascinated by the role of **sparsity** in **biological neural networks**, where only a small subset of neurons is active at any given time, leading to efficient **information processing** and storage. 
-\
-Understanding these **local learning rules** and their implementation in the brain could provide valuable insights into designing more efficient and biologically inspired **artificial neural networks**.
 
 - **Memory - role of Neocortex and Hippocampus**
 
