@@ -11,20 +11,20 @@ horizontal: false
 **What makes the brain such an amazing learner?** This question drives my passion for **NeuroAI**—the field where neuroscience and artificial intelligence meet. While I'm interested in many aspects of this field, a few topics really stand out to me:
 
 - **How the brain learns locally - Hebbian, Neo-Hebbian; Sparsity**
-/
-/
+\
+\
 I'm especially curious about the **local learning rules** the brain uses, like **Hebbian** and **Neo-Hebbian learning**, and the idea of **sparsity**.
-/
-/
+\
+\
 **Hebbian learning** is a basic rule that says "**cells that fire together wire together**." This means that when two neurons (brain cells) are active at the same time, the connection between them gets stronger, helping us learn and remember things.
-/
-/
+\
+\
 **Neo-Hebbian learning** builds on this idea by adding a twist: if something happens that surprises the brain, or if an outcome is different from what was expected, the brain is more likely to change the connections between neurons. This helps the brain learn more effectively and accurately.
-/
-/
+\
+\
 I'm also fascinated by **sparsity**—the idea that at any given time, only a few neurons are active while most are quiet. This helps the brain process and store information in a very efficient way.
-/
-/
+\
+\
 By understanding these **local learning rules** and how the brain uses them, we can find new ways to design **artificial neural networks** that are smarter and more efficient, just like the brain.
 
 
