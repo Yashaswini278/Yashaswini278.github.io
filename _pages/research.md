@@ -29,7 +29,8 @@ By understanding these **local learning rules** and how the brain uses them, we 
 
 
 - **Memory - role of Neocortex and Hippocampus**
-
+\
+\
 Another area that really interests me is how the brain handles **memory**—especially how the **neocortex** and **hippocampus** work together to **create, store, and recall memories**.
 \
 \
