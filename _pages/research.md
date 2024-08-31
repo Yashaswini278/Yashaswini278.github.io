@@ -8,7 +8,7 @@ nav_order: 1
 #display_categories: [work, fun]
 horizontal: false
 ---
-**What makes the brain such an amazing learner?** This question drives my passion for **NeuroAI**—the field where neuroscience and artificial intelligence meet. While I'm interested in many aspects of this field, a few topics really stand out to me:
+**What makes the brain such an amazing learner?** This question drives my passion for **NeuroAI**—the field where neuroscience and artificial intelligence meet. I am interested in almost all aspects and possibilities of NeuroAI. Some of the areas that I have explored and am especially interested in are:
 
 - **How the brain learns locally - Hebbian, Neo-Hebbian; Sparsity**
 \
