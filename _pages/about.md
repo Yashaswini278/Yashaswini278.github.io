@@ -19,10 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey! I'm Yashaswini, a final year student pursuing Integrated Masters (BTech. Electrical Engineering and MTech. Machine Learning and Signal Processing) at IIT Kharagpur. 
+Hi, I'm Yashaswini, a final-year student at the Indian Institute of Technology Kharagpur, where I’m pursuing an Integrated Masters in Electrical Engineering (BTech) and Machine Learning and Signal Processing (MTech).
 
-My research interests include Deep Learning, Computational Neuroscience and Signal Processing. I am particularly interested to 
-pursue research at the intersection of neuroscience and deep learning. 
+My research focuses on the intersection of Deep Learning, Computational Neuroscience, and Signal Processing. I am particularly passionate about exploring how neuroscience principles can inspire advancements in deep learning.
 
-Currently, I am exploring the use of deep learning on audio data. 
+Currently, I'm interning at TU Eindhoven in the NeurAI lab, where I’m developing neuroscience-inspired models for continual learning. As part of my Masters thesis, I’m also investigating Functional Connectome-based Brain Fingerprinting under the guidance of Dr. Sanjay Ghosh at IIT Kharagpur. My Bachelors thesis, titled "Emergence of Auditory Receptive Fields based on Surprise at Multiple Timescales," was completed under the mentorship of Dr. Sharba Bandyopadhyay.
 
