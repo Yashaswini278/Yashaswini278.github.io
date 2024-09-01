@@ -5,7 +5,6 @@ permalink: /projects/
 description: Some of my personal projects.
 nav: true
 nav_order: 2
-horizontal: true
 ---
 
 <!-- pages/projects.md -->
@@ -15,7 +14,7 @@ horizontal: true
   <div class="project" id="{{ project.title | slugify }}">
     <div class="project-details">
       <div class="project-box">
-        <img src="{{ project.img }}" alt="{{ project.title }}">
+        <img src="{{ project.img | relative_url }}" alt="{{ project.title }}">
         <h3>{{ project.title }}</h3>
       </div>
       <div class="project-description">
@@ -27,46 +26,38 @@ horizontal: true
   {%- endfor %}
 </div>
 
-<!-- Add CSS to control the layout -->
 <style>
 .projects-content {
   padding: 20px;
 }
-
 .project {
   display: flex;
   margin-bottom: 40px;
   border-bottom: 1px solid #ccc;
   padding-bottom: 20px;
 }
-
 .project-details {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
 }
-
 .project-box {
   width: 30%;
   margin-right: 20px;
   text-align: center;
 }
-
 .project-box img {
   width: 100%;
   height: auto;
   object-fit: cover;
   margin-bottom: 10px;
 }
-
 .project-box h3 {
   font-size: 1.2em;
   margin: 0;
 }
-
 .project-description {
   width: 70%;
 }
-
 .project-description p {
   margin-bottom: 10px;
 }
