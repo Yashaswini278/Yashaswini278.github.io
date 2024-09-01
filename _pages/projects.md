@@ -5,7 +5,6 @@ permalink: /projects/
 description: Some of my personal projects.
 nav: true
 nav_order: 2
-#display_categories: [work, fun]
 horizontal: true
 ---
 
@@ -22,31 +21,18 @@ horizontal: true
   </div>
 
   <div class="projects-content">
-    {%- if site.enable_project_categories and page.display_categories %}
-      <!-- Display categorized projects -->
-      {%- for category in page.display_categories %}
-      <h2 class="category">{{ category }}</h2>
-      {%- assign categorized_projects = site.projects | where: "category", category -%}
-      {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-      <div class="project-list">
-        {%- for project in sorted_projects -%}
-        <div class="project" id="{{ project.title | slugify }}">
-          {% include projects_horizontal.html %}
-        </div>
-        {%- endfor %}
+    {%- assign sorted_projects = site.projects | sort: "importance" -%}
+    {%- for project in sorted_projects -%}
+    <div class="project" id="{{ project.title | slugify }}">
+      <div class="project-box">
+        <img src="{{ project.image }}" alt="{{ project.title }}">
       </div>
-      {% endfor %}
-    {%- else -%}
-      <!-- Display projects without categories -->
-      {%- assign sorted_projects = site.projects | sort: "importance" -%}
-      <div class="project-list">
-        {%- for project in sorted_projects -%}
-        <div class="project" id="{{ project.title | slugify }}">
-          {% include projects_horizontal.html %}
-        </div>
-        {%- endfor %}
+      <div class="project-description">
+        <h3>{{ project.title }}</h3>
+        <p>{{ project.description }}</p>
       </div>
-    {%- endif -%}
+    </div>
+    {%- endfor %}
   </div>
 </div>
 
@@ -69,7 +55,23 @@ horizontal: true
   padding: 20px;
 }
 
-.project-list .project {
+.project {
+  display: flex;
   margin-bottom: 20px;
+}
+
+.project-box {
+  width: 30%;
+  margin-right: 20px;
+}
+
+.project-box img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.project-description {
+  width: 70%;
 }
 </style>
