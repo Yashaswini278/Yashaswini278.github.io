@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Some of my personal projects.
+description: Some of my relevant personal projects, completed as part of coursework or out of personal interest
 nav: true
 nav_order: 2
 ---
