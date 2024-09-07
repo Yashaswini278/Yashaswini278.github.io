@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Semantic Similarity on Quora Question Pairs
-#description: a project with a background image
+description: This project uses NLP and machine learning to assess semantic similarity between pairs of Quora questions. By preprocessing data, extracting features, and training models, it aims to improve automated question matching and recommendations, enhancing user interactions and accuracy on question-answer platforms.
 img: assets/img/quora.png
 importance: 2
 redirect: https://github.com/Yashaswini278/Semantic-Similarity-on-Quora-Question-Pairs
