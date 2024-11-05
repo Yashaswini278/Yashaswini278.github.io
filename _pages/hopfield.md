@@ -9,4 +9,4 @@ nav_order: 1
 horizontal: false
 ---
 
-bla bla
+![alt text](neo-hippo.png)
