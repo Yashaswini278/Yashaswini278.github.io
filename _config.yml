@@ -184,6 +184,9 @@ collections:
   research:
     output: true
     permalink: /research/:path/
+  hopfield:
+    output: true
+    permalink: /hopfield/:path/
 
 announcements:
   enabled: false
