@@ -33,7 +33,7 @@ By understanding these **local learning rules** and how the brain uses them, we 
 \
 Another area that really interests me is how the brain handles **memory**—especially how the **neocortex** and **hippocampus** work together to **create, store, and recall memories**. I am working in this area during my research intern at NeurAI Lab in TU Eindhoven where we are seeing the effect of associative memory based replay, drawing inspiration from the neocortex and hippocampus, in continual learning settings
 \
-[See more](/_pages/hopfield.md)
+[See more](/hopfield/)
 {% comment %} 
 The **Complementary Learning Systems (CLS) theory** suggests that these two parts of the brain have different but connected roles. The **hippocampus** is key for quickly forming and storing new, detailed memories of specific events. Over time, these memories are gradually moved to the **neocortex**, where they are stored long-term and linked to other knowledge we already have.
 \
