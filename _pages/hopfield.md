@@ -1,7 +1,7 @@
 ---
 layout: page
-title: research
-permalink: /research/
+title: hopfield
+permalink: /hopfield/
 description: 
 nav: false
 nav_order: 1
