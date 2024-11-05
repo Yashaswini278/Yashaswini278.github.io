@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Neural Encoding and Decoding
+title: Neural style transfer using VGG-19
 #description: a project that redirects to another website
-img: assets/img/spikes.png
-redirect: https://github.com/Yashaswini278/Computational-Neuroscience-Projects
-importance: 6
+img: assets/img/art/starry_night.jpg
+redirect: https://github.com/Yashaswini278/Neural-Style-Transfer-using-VGG19-PyTorch
+importance: 3
 #category: work
 ---
 

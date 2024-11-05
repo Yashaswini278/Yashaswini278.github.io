@@ -30,7 +30,7 @@ By understanding these **local learning rules** and how the brain uses them, we 
 
 - **Memory - role of Neocortex and Hippocampus**
 \
-\
+[Read more about my project on local learning rules and sparsity](/_pages/new_page.md)
 Another area that really interests me is how the brain handles **memory**—especially how the **neocortex** and **hippocampus** work together to **create, store, and recall memories**.
 \
 \
