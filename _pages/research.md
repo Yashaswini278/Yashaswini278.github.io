@@ -15,7 +15,6 @@ horizontal: false
 I am particularly intrigued by the brain’s local learning rules, such as Hebbian and Neo-Hebbian learning, and the concept of sparsity. For my Bachelor's project, I explored the Emergence of Auditory Receptive Fields Based on Surprise Across Multiple Timescales, where I demonstrated how receptive fields, similar to those in the auditory cortex, can develop by maximizing surprise while minimizing overall neural activity.
 \
 [See more](/arf/)
-\
 - **Memory - role of Neocortex and Hippocampus**
 \
 Another area that deeply interests me is how the brain manages memory, particularly the role of the neocortex and hippocampus in creating, storing, and recalling memories. Currently, I am exploring this topic during my research internship at NeurAI Lab, TU Eindhoven, where we are investigating the effects of associative memory-based replay, drawing inspiration from the neocortex and hippocampus, in continual learning settings.
