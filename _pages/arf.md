@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Receptive Fields - Surprise & Sparsity 
-permalink: /associativemem/
+permalink: /arf/
 description: 
 nav: false
 nav_order: 1
