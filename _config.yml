@@ -184,9 +184,9 @@ collections:
   research:
     output: true
     permalink: /research/:path/
-  hopfield:
+  associativemem:
     output: true
-    permalink: /hopfield/:path/
+    permalink: /associativemem/:path/
 
 announcements:
   enabled: false
