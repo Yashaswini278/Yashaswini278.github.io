@@ -12,15 +12,20 @@ horizontal: false
 
 - **How the brain learns locally - Hebbian, Neo-Hebbian; Sparsity**
 \
-I’m particularly intrigued by the brain’s local learning rules, such as Hebbian and Neo-Hebbian learning, and the concept of sparsity. For my Bachelor's project, I explored the Emergence of Auditory Receptive Fields Based on Surprise Across Multiple Timescales, where I demonstrated how receptive fields, similar to those in the auditory cortex, can develop by maximizing surprise while minimizing overall neural activity.
+I am particularly intrigued by the brain’s local learning rules, such as Hebbian and Neo-Hebbian learning, and the concept of sparsity. For my Bachelor's project, I explored the Emergence of Auditory Receptive Fields Based on Surprise Across Multiple Timescales, where I demonstrated how receptive fields, similar to those in the auditory cortex, can develop by maximizing surprise while minimizing overall neural activity.
 \
 [See more](/arf/)
 \
 - **Memory - role of Neocortex and Hippocampus**
 \
-Another area that really interests me is how the brain handles **memory**—especially how the **neocortex** and **hippocampus** work together to **create, store, and recall memories**. I am working in this area during my research intern at NeurAI Lab in TU Eindhoven where we are seeing the effect of associative memory based replay, drawing inspiration from the neocortex and hippocampus, in continual learning settings
+Another area that deeply interests me is how the brain manages memory, particularly the role of the neocortex and hippocampus in creating, storing, and recalling memories. Currently, I am exploring this topic during my research internship at NeurAI Lab, TU Eindhoven, where we are investigating the effects of associative memory-based replay, drawing inspiration from the neocortex and hippocampus, in continual learning settings.
 \
 [See more](/associativemem/)
+\ 
+- **Brain fingerprinting**
+\ 
+I am fascinated by how fMRI data can be used for various analyses, such as disease detection and cognitive behavior prediction. For my Master's thesis, I am investigating how functional connectomes, constructed from fMRI data, can be utilized for individual identification, similar to "brain fingerprinting."
+\ 
 
 
 

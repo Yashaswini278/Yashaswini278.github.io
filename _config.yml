@@ -187,6 +187,9 @@ collections:
   associativemem:
     output: true
     permalink: /associativemem/:path/
+  arf:
+    output: true
+    permalink: /arf/:path/
 
 announcements:
   enabled: false
