@@ -1,7 +1,7 @@
 ---
 layout: page
-title: hopfield
-permalink: /hopfield/
+title: Associative Memory-based Reaplay for Continual Learning 
+permalink: /associativemem/
 description: 
 nav: false
 nav_order: 1
@@ -9,4 +9,5 @@ nav_order: 1
 horizontal: false
 ---
 
-![alt text](neo-hippo.png)
+
+![neo-hippo](\assets\research\neo-hippo.png)
