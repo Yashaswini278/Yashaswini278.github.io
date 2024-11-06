@@ -13,9 +13,9 @@ horizontal: false
 - **How the brain learns locally - Hebbian, Neo-Hebbian; Sparsity**
 \
 \
-I'm especially curious about the **local learning rules** the brain uses, like **Hebbian** and **Neo-Hebbian learning**, and the idea of **sparsity**.
-\
-\
+I'm especially curious about the **local learning rules** the brain uses, like **Hebbian** and **Neo-Hebbian learning**, and the idea of **sparsity**. I worked on the Emergence of Auditory Receptive based on Surprise at Multiple timescales for my Bachelors project where I showed how receptive fields similar to those found in the auditory cortex develop by maximizing surprise and minimizing overall neural activity
+
+{% comment %} 
 **Hebbian learning** is a basic rule that says "**cells that fire together wire together**." This means that when two neurons (brain cells) are active at the same time, the connection between them gets stronger, helping us learn and remember things.
 \
 \
@@ -26,7 +26,7 @@ I'm also fascinated by **sparsity**—the idea that at any given time, only a fe
 \
 \
 By understanding these **local learning rules** and how the brain uses them, we can find new ways to design **artificial neural networks** that are smarter and more efficient, just like the brain.
-
+{% endcomment %}
 
 - **Memory - role of Neocortex and Hippocampus**
 \ 
@@ -34,6 +34,7 @@ By understanding these **local learning rules** and how the brain uses them, we 
 Another area that really interests me is how the brain handles **memory**—especially how the **neocortex** and **hippocampus** work together to **create, store, and recall memories**. I am working in this area during my research intern at NeurAI Lab in TU Eindhoven where we are seeing the effect of associative memory based replay, drawing inspiration from the neocortex and hippocampus, in continual learning settings
 \
 [See more](/associativemem/)
+
 {% comment %} 
 The **Complementary Learning Systems (CLS) theory** suggests that these two parts of the brain have different but connected roles. The **hippocampus** is key for quickly forming and storing new, detailed memories of specific events. Over time, these memories are gradually moved to the **neocortex**, where they are stored long-term and linked to other knowledge we already have.
 \
