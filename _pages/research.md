@@ -20,7 +20,6 @@ I am particularly intrigued by the brain’s local learning rules, such as Hebbi
 Another area that deeply interests me is how the brain manages memory, particularly the role of the neocortex and hippocampus in creating, storing, and recalling memories. Currently, I am exploring this topic during my research internship at NeurAI Lab, TU Eindhoven, where we are investigating the effects of associative memory-based replay, drawing inspiration from the neocortex and hippocampus, in continual learning settings.
 \
 [See more](/associativemem/)
-\ 
 - **Brain fingerprinting**
 \ 
 I am fascinated by how fMRI data can be used for various analyses, such as disease detection and cognitive behavior prediction. For my Master's thesis, I am investigating how functional connectomes, constructed from fMRI data, can be utilized for individual identification, similar to "brain fingerprinting."
