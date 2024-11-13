@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Neural Encoding and Decoding
-description: a project that redirects to another website
+description: The objective of this project was to uncover the specific auditory features that individual neurons encode by analyzing their spike-triggered averages. This approach enables a deeper understanding of how each neuron's spiking activity relates to particular aspects of a white noise stimulus, revealing functional encoding strategies in the auditory pathway.
 img: assets/img/spikes.png
 redirect: https://github.com/Yashaswini278/Computational-Neuroscience-Projects
 importance: 6

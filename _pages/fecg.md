@@ -15,10 +15,12 @@ Dataset preparation:
 <div style="text-align: center;">
   <img src="/assets/research/fecg1.png" alt="Image Description" style="width: 75%">
 </div>
+ 
 
 Training and evaluation process of the deep learning model for FECG extraction: 
 
+
 <div style="text-align: center;">
-  <img src="/assets/research/fecg2.png" alt="Image Description" style="width: 100%">
+  <img src="/assets/research/fecg2.png" alt="Image Description" style="width: 75%">
 </div>
 
