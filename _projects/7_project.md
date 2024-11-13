@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Neural style transfer using VGG-19
-#description: a project that redirects to another website
-img: assets/img/art/starry_night.jpg
+title: Fetal ECG separation from abdominal ECG using RCED-net 
+description: The objective of this project was to develop a deep learning architecture for continuous fetal well-being monitoring by accurately separating fetal ECG signals from abdominal ECG data, even under noisy conditions. To achieve this, we implemented a Residual Convolutional Encoder-Decoder (RCED-Net) model.
+img: assets/img/fecg.png
 redirect: /fecg/
 importance: 1
 #category: work
