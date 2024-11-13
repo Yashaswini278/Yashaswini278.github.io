@@ -193,6 +193,9 @@ collections:
   brainfingerprint:
     output: true
     permalink: /brainfingerprint/:path/
+  fecg:
+    output: true
+    permalink: /fecg/:path/
 
 announcements:
   enabled: false

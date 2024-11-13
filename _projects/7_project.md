@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Semantic Similarity on Quora Question Pairs
-description: This project uses NLP and machine learning to assess semantic similarity between pairs of Quora questions. By preprocessing data, extracting features, and training models, it aims to improve automated question matching and recommendations, enhancing user interactions and accuracy on question-answer platforms.
-img: assets/img/quora.png
-importance: 3
-redirect: https://github.com/Yashaswini278/Semantic-Similarity-on-Quora-Question-Pairs
+title: Neural style transfer using VGG-19
+#description: a project that redirects to another website
+img: assets/img/art/starry_night.jpg
+redirect: /fecg/
+importance: 1
+#category: work
 ---
 
 Every project has a beautiful feature showcase page.
