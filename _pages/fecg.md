@@ -10,9 +10,13 @@ horizontal: false
 ---
 In this project, a Residual Convolutional Autoencoder, was designed for continuous fetal well-being monitoring by separating fetal ECG signals from abdominal ECG data. Training data from the FECGSYNDB database was added with noise at various SNR levels and segmented for robust model training. Testing was performed on PCDB and ADFECG datasets, with preprocessing steps like filtering, normalization, and signal flipping to improve fetal R-peak detection accuracy. The model’s effectiveness was measured using Positive Predictive Value (PPV), Sensitivity, and F1 score, demonstrating high accuracy in fetal ECG signal extraction across diverse test cases​
 
+Dataset preparation: 
+
 <div style="text-align: center;">
-  <img src="/assets/research/fecg1.png" alt="Image Description" style="width: 100%">
+  <img src="/assets/research/fecg1.png" alt="Image Description" style="width: 75%">
 </div>
+
+Training and evaluation process of the deep learning model for FECG extraction: 
 
 <div style="text-align: center;">
   <img src="/assets/research/fecg2.png" alt="Image Description" style="width: 100%">
