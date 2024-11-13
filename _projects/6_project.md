@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Neural style transfer using VGG-19
-#description: a project that redirects to another website
+description: The objective of this project is to create a new image that follows the content of one image and the style of another image. Neural style transfer technique using a pretrained VGG-19 convolutional neural network was used. The target image was initialized with random noise.
 img: assets/img/art/starry_night.jpg
 redirect: https://github.com/Yashaswini278/Neural-Style-Transfer-using-VGG19-PyTorch
 importance: 3
