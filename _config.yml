@@ -190,6 +190,9 @@ collections:
   arf:
     output: true
     permalink: /arf/:path/
+  brainfingerprint:
+    output: true
+    permalink: /brainfingerprint/:path/
 
 announcements:
   enabled: false

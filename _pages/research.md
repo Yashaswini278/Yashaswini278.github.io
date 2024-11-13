@@ -26,3 +26,5 @@ horizontal: false
 - **Brain fingerprinting**
 
   I am fascinated by how fMRI data can be used for various analyses, such as disease detection and cognitive behavior prediction. For my Master's thesis, I am investigating how functional connectomes, constructed from fMRI data, can be utilized for individual identification, similar to "brain fingerprinting."
+
+  [See more](/brainfingerprint/)
