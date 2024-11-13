@@ -1,6 +1,6 @@
 ---
 layout: page
-title: fecg 
+title: Fetal ECG separation from abdominal ECG using RCED-net 
 permalink: /fecg/
 description: 
 nav: false
