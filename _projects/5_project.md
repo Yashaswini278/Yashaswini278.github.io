@@ -4,8 +4,9 @@ title: Stock Price Prediction
 #description: a project that redirects to another website
 img: assets/img/stocks.jpg
 redirect: https://github.com/Yashaswini278/Stock-Price-Prediction
-importance: 5
+importance: 6
 #category: work
+published: false
 ---
 
 Every project has a beautiful feature showcase page.

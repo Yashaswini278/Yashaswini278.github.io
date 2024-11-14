@@ -4,8 +4,9 @@ title: Grass Lane Detection
 #description: a project that redirects to another website
 img: assets/img/grass_lane.jpg
 redirect: https://github.com/Yashaswini278/Grass-Lane-Detection
-importance: 4
+importance: 7
 #category: work
+published: false
 ---
 
 Every project has a beautiful feature showcase page.
