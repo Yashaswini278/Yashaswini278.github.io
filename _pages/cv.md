@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 3
-cv_pdf: example_pdf.pdf
+cv_pdf: Yashaswini_CV.pdf
 ---
 
-Last updated - July 2023
+Last updated - December 2024
