@@ -12,14 +12,33 @@
   </head>
 
   <body>
-<table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
       <tr style="padding:0px">
         <td style="padding:0px">
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
             <tr>
-              <td style="padding:16px;width:100%;vertical-align:middle">
+              <td style="padding:16px 16px 4px 16px;width:100%;vertical-align:middle">
                 <h2>Blog</h2>
-                <p>Coming soon.</p>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding:16px;width:100%;vertical-align:middle">
+                <h3 style="font-size:18px; font-weight:700; margin-bottom:4px;">What Do I Even Do? How My Research Interests Are Shaping at the End of PhD Year One</h3>
+                <p style="color:#888; font-size:14px; margin-top:0;">April 2026</p>
+
+                <p>The first question I get when I tell someone I'm in a PhD program is "So what do you work on?" My answer is always "the intersection of neuroscience and AI", which is technically true but practically not a good enough explanation. This post is my attempt to do better.</p>
+
+                <p>I joined the EECS PhD program at Berkeley with a clear research direction: NeuroAI. How can we build AI systems inspired by the brain? How can AI help us better understand the brain? The synergy between the two felt super exciting. What I didn't have was any grip on the details.</p>
+
+                <p>Then Berkeley happened. In my undergrad, I had mostly theorized about what the brain might be doing. Berkeley gave me access to what the brain is actually doing, measured in BOLD activity, voxel by voxel, via fMRI. In the Gallant Lab, I came across voxelwise encoding models and immediately fell in love. The setup is beautiful: take a naturalistic stimulus, make a participant watch a movie, listen to a story, or play a video game, build rich feature spaces that capture it from multiple aspects, then use ridge regression to map those features onto brain responses per voxel. The result is a map of what information different parts of the brain are representing, in real time, during real experience. I spent months playing with these feature spaces, figuring out how to design them well, what happens when you involve LLMs and sparse autoencoders, and how to make the spaces rich but also interpretable.</p>
+
+                <p>That's where something shifted. I had started from brain principles &#8594; AI. Now I was deep in data &#8594; brain. And I started wondering: what if those two directions aren't separate?</p>
+
+                <p>Instead of imposing a theoretical brain-inspired prior onto an AI model, what if we used real brain data to form that prior? What would that even look like? What stimulus would you design to capture what you need, something naturalistic but targeted? What kind of model would benefit most from a brain prior? One trying to be more interpretable, more sample-efficient, more human-like in its generalizations? And then the questions keep branching: if the model is built based on a brain prior, can we use it to track brain responses with unseen stimuli? Could that tell us something more about the brain and intelligence in general?</p>
+
+                <p>I'll be honest: I'm all over the place. But I think that's what the end of year one is supposed to feel like. The fog isn't gone, it's just taken a shape I can start to work with.</p>
+
+                <p>If any of this resonates or you're thinking about something adjacent, I'd love to chat!</p>
               </td>
             </tr>
           </tbody></table>
