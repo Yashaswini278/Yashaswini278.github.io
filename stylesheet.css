@@ -140,38 +140,3 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
-
-nav {
-  width: 100%;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 12px 0 0 0;
-  border-bottom: 2px solid #e0e0e0;
-}
-
-nav a {
-  display: inline-block;
-  padding: 8px 20px;
-  margin-right: 4px;
-  font-size: 16px;
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  color: #555;
-  border-radius: 6px 6px 0 0;
-  border: 1px solid transparent;
-  border-bottom: none;
-  text-decoration: none;
-}
-
-nav a:hover {
-  color: #f09228;
-  background: #f9f9f9;
-}
-
-nav a.active {
-  color: #1772d0;
-  background: #fff;
-  border-color: #e0e0e0;
-  border-bottom: 2px solid #fff;
-  margin-bottom: -2px;
-  font-weight: 700;
-}
